@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T14:34:22.213Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="6YKi-Porm4xSD488nDCx" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T14:52:28.641Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="FvuIoremNi0kfWrIZoEG" version="12.1.7" type="github" pages="1">
   <diagram id="6DvPLgcTya2OOKR3TS7B" name="Page-1">
     <mxGraphModel dx="1088" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,41 +186,41 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;whatcanIdo&lt;/div&gt;" link="https://whatcanidoforlibreoffice.org/" id="QoF9Bd-ds1oIJ_mmsuoO-1">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
             <mxGeometry x="312" y="620" width="110" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-2" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="QoF9Bd-ds1oIJ_mmsuoO-1" parent="1" source="eeYAZnwzY8Feb9P3gQT8-46">
+        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-2" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eeYAZnwzY8Feb9P3gQT8-46" target="QoF9Bd-ds1oIJ_mmsuoO-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="245.5" y="520" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
         <UserObject label="Gerrit" link="https://gerrit.libreoffice.org/#/dashboard/self" id="QoF9Bd-ds1oIJ_mmsuoO-3">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
             <mxGeometry x="170" y="115" width="70" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-4" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="QoF9Bd-ds1oIJ_mmsuoO-3" parent="1" source="eeYAZnwzY8Feb9P3gQT8-13">
+        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-4" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eeYAZnwzY8Feb9P3gQT8-13" target="QoF9Bd-ds1oIJ_mmsuoO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="170" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
         <UserObject label="Bugzilla" link="https://bugs.documentfoundation.org/" id="QoF9Bd-ds1oIJ_mmsuoO-8">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
             <mxGeometry x="160" y="175" width="90" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-9" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="QoF9Bd-ds1oIJ_mmsuoO-8" parent="1" source="eeYAZnwzY8Feb9P3gQT8-18">
+        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-9" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eeYAZnwzY8Feb9P3gQT8-18" target="QoF9Bd-ds1oIJ_mmsuoO-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129" y="204" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;Open Grok&lt;/div&gt;" link="https://opengrok.libreoffice.org/" id="QoF9Bd-ds1oIJ_mmsuoO-10">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
             <mxGeometry x="155" y="68" width="100" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-11" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="QoF9Bd-ds1oIJ_mmsuoO-10" parent="1" source="eeYAZnwzY8Feb9P3gQT8-13">
+        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-11" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eeYAZnwzY8Feb9P3gQT8-13" target="QoF9Bd-ds1oIJ_mmsuoO-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129" y="110" as="sourcePoint"/>
             <Array as="points">
@@ -230,13 +230,51 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;Document&lt;/div&gt;&lt;div&gt;Liberation&lt;/div&gt;" link="https://www.documentliberation.org/" id="QoF9Bd-ds1oIJ_mmsuoO-12">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
             <mxGeometry x="636" y="371.5" width="100" height="40" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-13" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" target="QoF9Bd-ds1oIJ_mmsuoO-12" parent="1" source="eeYAZnwzY8Feb9P3gQT8-59">
+        <mxCell id="QoF9Bd-ds1oIJ_mmsuoO-13" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="eeYAZnwzY8Feb9P3gQT8-59" target="QoF9Bd-ds1oIJ_mmsuoO-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="710" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Github" link="https://github.com/libreoffice" id="igbup8ct0ObCzZ-WfE6h-1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="275" y="34" width="80" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="igbup8ct0ObCzZ-WfE6h-2" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="igbup8ct0ObCzZ-WfE6h-1" parent="1" source="eeYAZnwzY8Feb9P3gQT8-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239" y="76" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igbup8ct0ObCzZ-WfE6h-3" value="Weblate" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="88" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="igbup8ct0ObCzZ-WfE6h-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="igbup8ct0ObCzZ-WfE6h-3" parent="1" source="eeYAZnwzY8Feb9P3gQT8-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="130" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Pootle" link="https://translations.documentfoundation.org/" id="igbup8ct0ObCzZ-WfE6h-5">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="731" y="138" width="80" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="igbup8ct0ObCzZ-WfE6h-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="igbup8ct0ObCzZ-WfE6h-5" parent="1" source="eeYAZnwzY8Feb9P3gQT8-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="180" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Blog(s)" link="https://blog.documentfoundation.org/" id="igbup8ct0ObCzZ-WfE6h-7">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="200" y="286.5" width="80" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="igbup8ct0ObCzZ-WfE6h-8" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" target="igbup8ct0ObCzZ-WfE6h-7" parent="1" source="eeYAZnwzY8Feb9P3gQT8-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="342" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
       </root>
